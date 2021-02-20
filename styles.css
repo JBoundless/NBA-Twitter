@@ -1,0 +1,16 @@
+body {
+  background-color: #87ceeb;
+  color: blue;
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+}
+.twitter-feeds {
+  align-content: left;
+  justify-content: space-evenly;
+}
+footer {
+  background-color: black;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
